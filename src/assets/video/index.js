@@ -1,0 +1,1 @@
+export {default as bg_video} from "./bg_video.mp4";
